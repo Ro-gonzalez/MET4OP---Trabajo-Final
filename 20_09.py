@@ -15,7 +15,7 @@ def elPrimoMil():
             n += 1
         else : 
             n += 1
-        if contadorPrimos == 1000:
+        if contadorPrimos == 125:
             print( n-1 )
             break
 elPrimoMil()
